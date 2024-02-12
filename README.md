@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U: Es lo q tengo en mi SmartTV
 
 #EXTINF: Poroto1
 https://iptv-org.github.io/iptv/index.m3u
